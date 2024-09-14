@@ -1,7 +1,9 @@
 # Module Federation
 
-## Introduction Module Federation in Webpack 5
+1. Introduction Module Federation in Webpack 5
 
-## Single Spa + Federated Modules = Wow
+2. Single Spa + Federated Modules = Wow
 
-## Zack Jackson - Module Federation
+3. Zack Jackson - Module Federation
+
+4. Federate Module Dashboard
